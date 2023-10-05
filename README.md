@@ -25,9 +25,9 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-- 🔭 I’m currently working on Backend-Development and DevOps
-- 🌱 I’m currently learning Vue and Nuuxt
-- 👯 I’m looking to collaborate on Nuxt and Competitive Programming
+- 🔭 I’m currently working on Backend-Development and Data Science
+- 🌱 I’m currently learning FastAPI and React
+- 👯 I’m looking to collaborate on Data Science and Competitive Programming
 - 🤔 I’m looking for help with DSA(Data Structure and Algorithm)
 - 💬 Ask me about Back-end Development
 - 📫 How to reach me: 
